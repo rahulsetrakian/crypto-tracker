@@ -19,8 +19,11 @@ python app.py
 ## Screenshots
 
 ![alt crypto Tracker](https://i.ibb.co/VLG3Q48/Screenshot-57.png)
+
 ![alt crypto Tracker](https://i.ibb.co/6XyxQfm/Screenshot-58.png)
+
 ![alt crypto Tracker](https://i.ibb.co/6sTBzMd/Screenshot-59.png)
+
 ![alt crypto Tracker](https://i.ibb.co/KzQSf49/Screenshot-60.png)
 
 ## Contributing
